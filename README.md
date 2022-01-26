@@ -1,3 +1,3 @@
 # zybo
 
-dossier contient mes codes fonctionnel ou en cours de fonctionnement
+Ce dossier contient mes codes fonctionnel ou en cours de fonctionnement
